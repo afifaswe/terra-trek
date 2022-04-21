@@ -1,0 +1,15 @@
+.p-4 {
+    padding: 20px;
+}
+
+.rounded {
+    border-radius: 25px !important;
+}
+
+.bg-white{
+    background: #fff !important;
+}
+
+.mb-2{
+    margin-bottom: 10px !important;
+}
